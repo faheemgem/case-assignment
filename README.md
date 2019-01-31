@@ -1,2 +1,2 @@
 # case-assignment
-Website design for Liana Tech in HTML &amp; CSS
+test website design as an assignment for Liana Tech in HTML, CSS & JS
